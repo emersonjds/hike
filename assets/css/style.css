@@ -1,0 +1,28 @@
+h1 {
+    color: white;
+    font-size: 36px;
+    border: 1px solid black;
+    background-image: url('../img/chevron.jpg');
+    height: 300px;
+}
+
+h2 {
+    color: #8674FC;
+}
+
+p {
+    background-color: blue;
+    font-size: 20px;
+    height: 250px;
+    width: 500px;
+}
+
+img {
+    border: 1ox solid black;
+    border-radius: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+

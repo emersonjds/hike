@@ -1,25 +1,35 @@
-h1 {
+body {
+    color: #4a4a4a;
+}
+
+
+header {
+    background-color: #F0F8FF;
+    padding: 200px 0;
+    background-image: url('../img/dog-header.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     color: white;
-    font-size: 36px;
-    border: 1px solid black;
-    background-image: url('../img/chevron.jpg');
-    height: 300px;
 }
 
-h2 {
-    color: #8674FC;
+.first-section {
+    background-color: white;
 }
 
-p {
-    background-color: blue;
-    font-size: 20px;
-    height: 250px;
-    width: 500px;
+.section {
+    padding: 60px 0 40px;
 }
 
 img {
-    border: 1ox solid black;
     border-radius: 25px;
+}
+
+ul {
+    margin-top: 25px;
+    padding: 30px 55px;
+    border-radius: 8px;
+    background-color: #F7F9FC;
 }
 
 li {

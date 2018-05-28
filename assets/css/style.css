@@ -39,19 +39,19 @@ header {
     color: #9DA2A6;
 }
 
-img {
-    border-radius: 25px;
+.nav-item {
+    margin: 10px 16px;
 }
 
 ul {
-    margin-top: 25px;
-    padding: 30px 55px;
     border-radius: 8px;
     background-color: #F7F9FC;
 }
 
-li {
-    margin-bottom: 8px;
+.navbar-brand img {
+    height: 46px;
+    margin-left: 8px;
+    width: 46px;
 }
 
 @media(min-width: 576px) {

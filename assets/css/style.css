@@ -106,3 +106,15 @@ ul {
     }
 } 
 
+.btn-enviar {
+    float: right;
+}
+
+.line-header {
+    width: 100%;
+}
+
+.modal-title {
+    float: left;
+}
+
